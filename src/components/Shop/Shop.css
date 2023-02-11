@@ -10,7 +10,8 @@
     gap: 14px;
 }
 .order-container{
-    height: 200px
+    background-color: rgba(255, 153, 0, 0.3);
+
 }
 
 
