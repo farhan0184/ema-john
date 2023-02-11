@@ -1,0 +1,38 @@
+.product{
+    border: 1px solid gray;
+    position: relative;
+}
+.product img{
+    margin: 7px;
+    width: 286px;
+    height: 286px;
+}
+.product-info{
+    font-family: 'Lato';
+    padding-inline: 10px;
+    margin-bottom: 50px;
+}
+
+.product-info h3{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    
+}
+.product-info h4{
+    margin-top: 5px;
+}
+.product button {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding-block: 15px;
+    border: 0;
+    background-color: #FFE0B3;
+}
+.product button:hover{
+    background-color: #FF9900;
+}
+
+.product button span{
+    padding-left: 5px;
+}
