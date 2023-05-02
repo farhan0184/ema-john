@@ -1,0 +1,82 @@
+
+.login{
+    width: 30%;
+    background-color: rgb(124, 126, 126);
+    text-align: center;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+h2{
+   padding: 10px 0 ;
+   font-size: 30px;
+}
+.input{
+   display: flex;
+   justify-content: center;
+   
+   
+}
+.input div{
+    width: 80%;
+}
+.input input{
+    width: 90%;
+    padding: 10px 10px;
+    border: 1px solid rgb(189, 188, 188);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.login p{
+    margin-top: 10px;
+}
+.login button{
+    padding: 10px 34%;
+    background-color: #01447f;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    margin-top: 5px ;
+}
+.design-login{
+   
+   width:75%;
+   margin: 15px auto;
+   display: flex;
+   align-items: center;
+}
+.design-login p{
+    padding: 0 10px;
+    color: rgb(0, 0, 0);
+}
+.design-login hr{
+ width: 100%; 
+ 
+ margin-top: 10px;
+ 
+}
+.img1 img{
+    width: 25px;
+    margin: 0 10px;
+}
+.login-another{
+    width: 75%;
+    margin: 0 auto;
+    
+}
+.login-1{
+    
+    display: flex;
+    padding: 5px 5px;
+    align-items: center;
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.login-another-right{
+    margin-left: 10px;
+}
+.login-another-right a{
+    color: black;
+}
+

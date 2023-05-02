@@ -7,3 +7,15 @@
     text-align: center;
     margin-bottom: 35px;
 }
+.cart button{
+    padding: 10px 30px;
+    background-color: #ee9d24c7;
+    border: 0;
+    border-radius: 10px;
+}
+
+.cart button:hover{
+    
+    background-color: #ff9900;
+    
+}
